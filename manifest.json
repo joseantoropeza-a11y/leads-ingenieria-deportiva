@@ -1,0 +1,22 @@
+{
+ "/_headers": {
+  "hash": "3db1500cb442bd5206a9ab5117154d2f",
+  "size": 319
+ },
+ "/favicon.svg": {
+  "hash": "93467a7ec6811e759dba2d08bbb0ef7c",
+  "size": 404
+ },
+ "/index.html": {
+  "hash": "2ed312154c3d109726acda668a86a4d5",
+  "size": 678750
+ },
+ "/leads.csv": {
+  "hash": "bbbaffa5edfdfa8fc890e07249c44746",
+  "size": 307218
+ },
+ "/leads.json": {
+  "hash": "ba595f5c39f427c9f094f6430658a8df",
+  "size": 684897
+ }
+}

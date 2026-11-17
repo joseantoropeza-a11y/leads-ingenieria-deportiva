@@ -1,0 +1,13 @@
+/leads.json
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: no-cache
+  Access-Control-Allow-Origin: *
+
+/leads.csv
+  Content-Type: text/csv; charset=utf-8
+  Cache-Control: no-cache
+  Access-Control-Allow-Origin: *
+
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
